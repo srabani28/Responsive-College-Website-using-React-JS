@@ -1,2 +1,2 @@
 # Responsive-College-Website-using-React-JS
-In this tutorial you will learn to build and deploy complete responsive website using React JS. We will create a college or University website in this tutorial. This website will be completely responsive and we will add react smooth scroll, slider and working contact form on this website. 
+A fully responsive College Website built using React.js. This project features modern UI/UX design, including sections for courses, admissions, faculty, and contact information. The site is optimized for various devices, ensuring a seamless experience across desktops and mobile platforms. It utilizes reusable components for efficient development and scalability.
