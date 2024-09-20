@@ -1,2 +1,8 @@
-# Responsive-College-Website-using-React-JS
-A fully responsive College Website built using React.js. This project features modern UI/UX design, including sections for courses, admissions, faculty, and contact information. The site is optimized for various devices, ensuring a seamless experience across desktops and mobile platforms. It utilizes reusable components for efficient development and scalability.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
